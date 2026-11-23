@@ -7,7 +7,7 @@ Home Assistant core and it is not affiliated with Home Assistant.
 ## Ways to contribute
 
 * **Bug reports and feature requests** — open an
-  [issue](https://github.com/hoymiles-ha/ha_G2/issues).
+  [issue](https://github.com/hoymiles-ha/ha_beta/issues).
 * **Code, docs, translations, dashboard cards** — open a pull request.
 
 **You do not need any special permission to open a pull request.** Fork the

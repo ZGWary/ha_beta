@@ -81,7 +81,7 @@ that mirror the layout of the Hoymiles app.
 > If the search does not find it yet (HACS caches the catalog and only refreshes
 > every 48 hours), add it once as a custom repository:
 > **HACS → Integrations → ⋮ (top right) → Custom repositories**,
-> repository `https://github.com/hoymiles-ha/ha_G2`, category **Integration**, then
+> repository `https://github.com/hoymiles-ha/ha_beta`, category **Integration**, then
 > search for **Hoymiles MS-G2** and click **Download**.
 
 ### Option B — Manual

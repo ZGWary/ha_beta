@@ -73,7 +73,7 @@
 
 > 如果暂时搜不到（HACS 会缓存目录，最长 48 小时才刷新），先按自定义存储库
 > 添加一次：**HACS → 集成 → 右上角 ⋮ → 自定义存储库**，
-> 仓库地址填 `https://github.com/hoymiles-ha/ha_G2`，类别选 **Integration**，
+> 仓库地址填 `https://github.com/hoymiles-ha/ha_beta`，类别选 **Integration**，
 > 然后搜索 **Hoymiles MS-G2** → **下载**。
 
 ### 方式 B：手动安装
